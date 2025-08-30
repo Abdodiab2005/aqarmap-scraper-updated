@@ -21,7 +21,7 @@ module.exports = {
   // Targets (url = صفحة البحث الأساسية، name = اسم كولكشن الداتا النهائية)
   targets: [
     {
-      url: "https://aqarmap.com.eg/ar/for-sale/property-type/cairo/heliopolis/?location=cairo/heliopolis,cairo/nasr-city&sort=publishedAt&byOwnerOnly=1&direction=desc",
+      url: "https://aqarmap.com.eg/ar/for-sale/property-type/cairo/heliopolis/?location=cairo%2Fheliopolis%2Ccairo%2Fnasr-city&sort=publishedAt&byOwnerOnly=1&direction=desc",
       name: "link1",
     },
     {
